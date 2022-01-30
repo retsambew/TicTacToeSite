@@ -1,7 +1,5 @@
 # TicTacToe With React
 
-Official tutorial from reactjs.org
-
 ### Motive: Explore React.
 
 ## Functionalities:
@@ -11,7 +9,7 @@ Official tutorial from reactjs.org
 -> Allows players to review a game’s history and see previous versions of a game’s board. <br/>
 
 ## To-Do:
-(Next versions will have)
+(Next versions will have)  
 -> Make a Better UI. <br/>
 -> Moves will be recorded in a panel like chess. <br/>
 -> last move, next move and latest move buttons, instead of move # list. <br/>
